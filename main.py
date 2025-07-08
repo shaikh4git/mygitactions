@@ -7,5 +7,3 @@ def bye():
 
 
 hello()
-
-bye()
